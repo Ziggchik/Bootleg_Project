@@ -1,0 +1,2 @@
+rootProject.name = "Bootleg Project"
+include ':app'
